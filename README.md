@@ -1,4 +1,4 @@
-#Detection_of_Hypertensive_Retinopathy In this project, we build upon our previous project, which involved a segmentation model.
+# Detection_of_Hypertensive_Retinopathy In this project, we build upon our previous project, which involved a segmentation model.
 In this new phase, we utilize our model along with image preprocessing and various image techniques to calculate a parameter known as the Arteriovenous Ratio (AVR) from retinal images. 
 The AVR assists us in detecting hypertensive retinopathy. Here are the hypotheses that we focused on:
 
