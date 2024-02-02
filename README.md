@@ -3,6 +3,7 @@ In this new phase, we utilize our model along with image preprocessing and vario
 The AVR assists us in detecting hypertensive retinopathy. Here are the hypotheses that we focused on:
 
 Hypothesis 1: Arteries tend to be smaller than veins.
+
 Hypothesis 2: Arteries tend to be brighter than veins.
 
 Within this repository, we present all the attempts, whether they are correct or erroneous.
@@ -15,6 +16,7 @@ Dans cette nouvelle phase, nous utilisons notre modèle ainsi que des techniques
 L'AVR nous aide à détecter la rétinopathie hypertensive. Voici les hypothèses sur lesquelles nous nous sommes concentrés :
 
 Hypothèse 1 : Les artères ont tendance à être plus petites que les veines.
+
 Hypothèse 2 : Les artères ont tendance à être plus lumineuses que les veines.
 
 Dans ce référentiel, nous présentons toutes les tentatives, qu'elles soient correctes ou erronées.
