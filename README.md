@@ -9,7 +9,6 @@ Hypothesis 2: Arteries tend to be brighter than veins.
 Within this repository, we present all the attempts, whether they are correct or erroneous.
 Subsequently, we showcase the accurate results obtained from these attempts.
 
-
 # Détection de la rétinopathie hypertensive
 Dans ce projet, nous nous appuyons sur notre projet précédent qui impliquait un modèle de segmentation.
 Dans cette nouvelle phase, nous utilisons notre modèle ainsi que des techniques de prétraitement d'image pour calculer un paramètre appelé le rapport artério-veineux (AVR) à partir d'images rétiniennes.
