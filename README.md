@@ -10,6 +10,7 @@ Within this repository, we present all the attempts, whether they are correct or
 Subsequently, we showcase the accurate results obtained from these attempts.
 
 ---> Voici un lien vers un drive contenant des images fiables et de qualité pour tester l'algorithme en toute confiance : 
+https://drive.google.com/drive/folders/1YLZ9RoYzPuU8-oFMEjnL8MQ9n-aSWbJz?usp=sharing
 
 # Détection de la rétinopathie hypertensive
 Dans ce projet, nous nous appuyons sur notre projet précédent qui impliquait un modèle de segmentation.
@@ -23,4 +24,4 @@ Hypothèse 2 : Les artères ont tendance à être plus lumineuses que les veines
 Dans ce référentiel, nous présentons toutes les tentatives, qu'elles soient correctes ou erronées.
 Ensuite, nous présentons les résultats précis obtenus à partir de ces tentatives.
 
----> Here is a link to a reliable and trustworthy drive containing high-quality images for testing the algorithm with confidence : 
+---> Here is a link to a reliable and trustworthy drive containing high-quality images for testing the algorithm with confidence :
